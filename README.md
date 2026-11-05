@@ -71,3 +71,7 @@ Change these values at the top of `Fire_Fighter_Robot.ino`:
 | `motorSpeed` | `200` | Motor PWM speed, 0–255 |
 | `move_forward`, `turning_time`, `move_backward` | `300`, `300`, `150` ms | How long each movement lasts |
 | `servo_step_delay` | `150` ms | Time between servo steps while spraying |
+
+## Author
+
+[althafnezam17-ryuma](https://github.com/althafnezam17-ryuma)
